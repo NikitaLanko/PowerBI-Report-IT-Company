@@ -1,2 +1,35 @@
-# PowerBI-Report-IT-Company
-Analyzed an IT company, with the help of Power Bi
+# *Analyzed an IT company, with the help of Power Bi* :man_technologist:
+
+## *Описание проекта*:man_technologist:
+Этот проект представляет собой всесторонний анализ HR-данных компании с использованием Power BI. В проекте рассмотрены ключевые аспекты управления персоналом, такие как удовлетворенность сотрудников и клиентов, анализ заработных плат, структура сотрудников по стажу, причины увольнений, успешность набора персонала и динамика кадровых изменений.
+
+## *Используемые инструменты*:man_technologist:
+Power BI: Для анализа и визуализации данных.
+Источники данных: Таблицы с информацией о сотрудниках, заработных платах, причинах увольнений и другие.
+
+## *Как использовать*:man_technologist:
+Открытие файла: Открой файл .pbix в Power BI.
+Навигация:Переключайтесь между вкладками, чтобы просмотреть различные аспекты анализа.
+Используйте фильтры для анализа данных по отделам, опыту работы, статусу сотрудников и другим параметрам.
+
+## *Основные дашборды и визуализации*:man_technologist:
+
+*Уровень удовлетворенности*:man_technologist:
+![Уровень удовлетворенности](https://github.com/NikitaLanko/PowerBI-Report-IT-Company/blob/23b3ec48ced65ad0f2534917c82720a15765f8ea/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20230034.png)
+
+*Анализ заработной платы и выплат*:man_technologist:
+![Анализ заработной платы и выплат](https://github.com/NikitaLanko/PowerBI-Report-IT-Company/blob/23b3ec48ced65ad0f2534917c82720a15765f8ea/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20230056.png)
+
+*Структура сотрудников и производительность*:man_technologist:
+![Структура сотрудников и производительность](https://github.com/NikitaLanko/PowerBI-Report-IT-Company/blob/23b3ec48ced65ad0f2534917c82720a15765f8ea/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20230113.png)
+
+*Анализ увольнений и успешность набора*:man_technologist:
+![Анализ увольнений и успешность набора](https://github.com/NikitaLanko/PowerBI-Report-IT-Company/blob/23b3ec48ced65ad0f2534917c82720a15765f8ea/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20230131.png)
+
+*Динамика кадровых изменений*:man_technologist:
+![Динамика кадровых изменений](https://github.com/NikitaLanko/PowerBI-Report-IT-Company/blob/23b3ec48ced65ad0f2534917c82720a15765f8ea/image/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-08-13%20230147.png)
+
+*Заключение*:man_technologist:
+Проект демонстрирует, как Power BI может быть использован для всестороннего анализа HR-данных, помогая руководству компании принимать обоснованные решения на основе данных.
+
+
